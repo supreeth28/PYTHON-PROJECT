@@ -7,4 +7,4 @@ Either, guests get different orders of services but this protocol cannot determi
 For this application, we are using face detection with the account number, Aadhar number, PIN, mobile number, and name.
 When we recognize the face then it will give us access to enter the ATM details. After that, it will send a message to the phone number.
 If we enter the password it will give transaction access. for this purpose, we are using deep learning.
-![image](https://github.com/user-attachments/assets/dfbb538b-243c-4150-abad-582520c00755)
+
